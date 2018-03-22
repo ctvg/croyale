@@ -1,1 +1,1 @@
-{"serveripaddress":"gameserver.capsaroyale.com","myip":"gameserver.capsaroyale.com","newsip":"gameserver.capsaroyale.com","autip":"gameserver.capsaroyale.com"}
+{"serveripaddress":"209.58.176.138","myip":"209.58.176.138","newsip":"209.58.176.138","autip":"209.58.176.138"}
